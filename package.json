@@ -1,0 +1,11 @@
+{
+  "name": "udp-service",
+  "version": "1.0.0",
+  "description": "First meet udp service with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samtsai15",
+  "license": "ISC"
+}
